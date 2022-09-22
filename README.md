@@ -1,2 +1,3 @@
-# cv
-Personal portfolio
+# CV
+
+This is a personal portfolio website.
