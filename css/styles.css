@@ -11,3 +11,10 @@ hr {
   border: none;
   border-top-style: solid;
 }
+
+
+#profilepic {
+  border-radius: 100%;
+  border: 10px solid #181D31;
+  background-color: #181D31
+}
