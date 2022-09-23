@@ -1,20 +1,26 @@
 body {
-  background-color: #678983;
+  background-color: white;
 }
 
-h1,h2 {
-  color: #181D31;
+h1, h2 {
+  color: #30475E;
 }
 
 hr {
-  color: #181D31;
+  color: #30475E;
   border: none;
   border-top-style: solid;
 }
 
-
 #profilepic {
   border-radius: 100%;
-  border: 10px solid #181D31;
-  background-color: #181D31
+  border: 10px solid #30475E;
+  background-color: #30475E
+}
+
+.footer-icons {
+  font-size: 24px;
+  color: #30475E;
+  margin: 0;
+  margin-right: 10px;
 }
